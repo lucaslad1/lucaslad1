@@ -15,9 +15,6 @@
 <p align="center">
 🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.
 </p>
-<p align="center">
-🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
-</p>
 
 ###
 
