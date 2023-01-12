@@ -7,13 +7,13 @@
 ###
 
 <p align="center">
-🤖 I love learning about and making machine learning systems.
+🎓 I'm currently in my first year undergraduate studying Software Engineering.
 </p>
 <p align="center">
-💻 I am constantly seeking out new technologies and learning about them.
+🧩 I love coding in Python.
 </p>
 <p align="center">
-🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.
+💡 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.
 </p>
 
 ###
