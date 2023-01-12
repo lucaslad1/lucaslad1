@@ -7,10 +7,10 @@
 ###
 
 <p align="center">
-🎓 I'm currently in my first year undergraduate studying Software Engineering.
+🧩 I love coding in Python.
 </p>
 <p align="center">
-🧩 I love coding in Python.
+🎓 I'm currently in my first year undergraduate studying Software Engineering.
 </p>
 <p align="center">
 💡 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.
