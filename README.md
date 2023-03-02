@@ -7,9 +7,6 @@
 ###
 
 <p align="center">
-🧩 I love coding in Python.
-</p>
-<p align="center">
 🎓 I'm currently in my first year undergraduate studying Software Engineering.
 </p>
 <p align="center">
